@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Sound"
+date:   2025-07-13 23:39:10 +0800
+categories: short story
+---
+
 Sound.
 
 Waking up, sonic felt pressure around his head, it was no ordinary headache. It was so pronounced and almost felt external - like cotton buds pressing against his temples. His mum’s voice which called out “you are going to be late” seemed muffled compared to the usually shrill. It has been this way for recent mornings.
